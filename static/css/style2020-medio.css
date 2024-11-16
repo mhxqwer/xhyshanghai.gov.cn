@@ -1,0 +1,4286 @@
+/*
+* @Author: 88888888
+* @Date:   2020-07-09 11:01:08
+* @Last Modified by:   88888888
+* @Last Modified time: 2024-04-07 14:00:34
+*/
+@media (min-width: 768px) {
+    .contain {
+        width: 750px;
+    }
+
+    .email-dengl {
+        display: none!important;
+    }
+}
+
+@media (min-width: 992px) {
+    .contain {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1196px) {
+    .contain {
+        width: 1166px;
+    }
+}
+
+.contain {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (max-width: 1360px) {
+.top-link li a {
+    padding: 0 11px;
+}
+.Senior-edition li{
+    margin-right: 15px;
+}
+.top-link{
+    margin-left: 10px;
+}
+}
+@media (max-width: 1260px) {
+.top-link{
+    margin-left: 10px;
+}
+.header-lt{
+    margin-left: 15px;
+}
+.top-link li a {
+    padding: 0 10px;
+}
+.header-lt span {
+    margin-left: 18px;
+}
+.Senior-edition li {
+    margin-right: 10px;
+}
+
+}
+@media (max-width: 1195px) {
+    .Integrated-publishing-picer .message-content {
+        width: 180px !important;
+        margin-left: -90px !important;
+    }
+
+    .Integrated-publishing-picer {
+        min-height: 250px;
+    }
+
+    .Integrated-publishing-big-img {
+        padding-bottom: 30px;
+        height: 247px;
+    }
+
+    .maper {
+        margin-top: 88px!important;
+    }
+
+    .header-lt {
+        margin-right: 0px;
+    }
+
+    .menu-zw li:nth-child(2) .bock01 p, .menu-zw li:nth-child(3) .bock01 p, .menu-zw li:nth-child(4) .bock01 p, .menu-zw li:nth-child(5) .bock01 p {
+        padding: 0 10px;
+    }
+
+    .header-lt span {
+        margin-left: 15px;
+    }
+
+    .index-nav ul li {
+        padding: 0 42px;
+        margin: 0 0px;
+    }
+
+    .Article-wz .Article_content img {
+        width: 100%;
+    }
+
+    .img-lub h4 {
+        width: 72%;
+    }
+
+    .xinxi_solution_main ul li.on {
+        width: 550px;
+    }
+
+    .messager .message-content {
+        width: 120px;
+        margin-left: -60px;
+    }
+
+    .head .header-rt .top-link {
+        padding-left: 0;
+    }
+
+    .denglu {
+        margin-right: 20px;
+    }
+
+    .head .dengl-wm .top-link li a {
+        margin-left: 5px;
+    }
+
+    .head .dengl-wm .top-link li:nth-child(1) a {
+        margin-left: 5px;
+    }
+
+    .xinx a {
+        padding: 12px 33px 12px 33px;
+    }
+
+    .four004 li a {
+        padding: 20px 10px!important;
+    }
+
+    .four004 li:nth-child(2) a {
+        padding: 13px 10px!important;
+    }
+
+    .four004 li a span {
+        margin-left: 12px;
+        width: 76%;
+    }
+
+    .interview-man .interview-lt .interview-list {
+        width: 63%;
+    }
+
+    .interview-man .interview-lt .interview-list span {
+        width: 77%;
+    }
+
+    .four004 li:nth-child(3) a {
+        padding: 6px 10px!important;
+    }
+
+    .four004 li:nth-child(3) a .iconfont {
+        margin-top: 16px!important;
+    }
+
+    .five005-list li a {
+        padding: 0 25px!important;
+    }
+
+    .four004 li:nth-child(4) a {
+        padding: 12px 10px!important;
+    }
+
+    .five005-list {
+        width: 895px;
+    }
+
+    .work-jg li span {
+        float: left;
+        width: 70px;
+    }
+
+    .work-jg li label {
+        float: left;
+        width: 150px;
+        word-break: break-all;
+    }
+
+    .work-jg li:first-child label {
+        float: none;
+        width: auto;
+        word-break: normal;
+    }
+
+    .list-color li a {
+        padding: 21px 14px;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 14px 14px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 70%;
+    }
+
+    .mess-box .col-sm-3 {
+        width: 30%;
+    }
+
+    .mess-box .col-sm-9 {
+        width: 70%;
+    }
+
+    .juece:before, .zhixing:before, .guanli:before {
+        left: 16%;
+    }
+
+    .fuwu {
+        right: 0;
+        left: auto;
+    }
+
+    .fuwu:before {
+        left: 33%;
+    }
+
+    .jieguo:before {
+        left: 76%;
+    }
+
+    .xia-wm {
+        left: -33px;
+    }
+
+    .hot-sever li {
+        width: 16.6%;
+    }
+
+    .hot-sever li a p {
+        height: 48px;
+    }
+
+    .video-box-years li .video01 {
+        height: 96px;
+    }
+
+    .daix li a {
+        width: 95%!important;
+    }
+
+    .modern {
+        margin-right: -70px;
+    }
+
+    .region-list {
+        margin: 0 -10px;
+        margin-bottom: 20px;
+    }
+
+    .video-news-list ul li .new-tu {
+        height: 153px;
+    }
+
+    .wellMD p {
+        padding: 0 65px;
+    }
+
+    .col90 {
+        background: url(../images/chevron-down.png) 229px no-repeat;
+    }
+
+    .xiangmu li a {
+        padding: 0 8px!important;
+    }
+
+    .xiangmu {
+        margin: 0 -8px;
+        margin-bottom: 45px;
+        margin-top: 30px;
+    }
+
+    .zhengji {
+        background: url(../images/chevron-down.png) 298px no-repeat;
+    }
+
+    .head .header-rt .top-link li a {
+        margin-left: 6px;
+    }
+
+    .head .header-rt .top-link li:nth-child(1) a {
+        margin-left: 0px;
+    }
+
+    .guzhi .new-tu {
+        height: 153px!important;
+    }
+
+    .head .header-rt .top-link .dropdown-menu:after {
+        left: 74%;
+    }
+
+    .guest-list {
+        width: 58%;
+    }
+
+    .guest-list01 {
+        width: 79%;
+    }
+
+    .peolpeo3 {
+        width: 57%;
+    }
+
+    .reviewr li h5 label {
+        width: 88%;
+    }
+
+    .historical-list-content {
+        width: 67%;
+    }
+
+    .hot {
+        margin-left: 87px!important;
+    }
+
+    .newsbox .hot {
+        margin-left: 0!important;
+    }
+
+    .homeSlider-rt {
+        width: 65%;
+    }
+
+    .tzi-title {
+        margin-top: 34px!important;
+    }
+
+    .xinxi_solution_main ul li .right {
+        padding: 34px 19px 28px 20px;
+    }
+
+    .yearbook dd {
+        padding: 2px 0 0px 0px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 4;
+        overflow: hidden;
+    }
+
+    .skine .col-sm-6 {
+        padding: 0 20px;
+    }
+
+    .skine {
+        margin: 0 -20px;
+        margin-bottom: 46px;
+    }
+
+    .quarter-span {
+        width: 175px;
+    }
+
+    .Xuandeng-ulr {
+        width: 74%;
+        padding-left: 0;
+    }
+
+    .footer .footer-links {
+        margin: 0 -13px;
+        margin-bottom: 30px;
+    }
+
+    .footer-links .dropdown {
+        margin: 0 4px;
+    }
+
+    .foot-flex-ageeing-txt {
+        margin-left: 9px;
+    }
+
+    .Integrated-publishing-big-img .message-content {
+        width: 250px !important;
+        margin-left: -125px !important;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 173px;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 140px;
+    }
+    .header-rt{
+      margin-top: 0;
+        margin-bottom: 10px;
+        float: none;
+        width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: flex-end;
+    }
+}
+
+@media (max-width: 991px) {
+    .Integrated-publishing-big-img li,.Integrated-publishing-picer li {
+        padding: 0 5px;
+    }
+    .top-link li a {
+        padding: 0 7px;
+    }
+
+    .Integrated-publishing-big-img {
+        padding-bottom: 65px;
+        margin: 0 -5px;
+        margin-bottom: 0;
+        height: 255px;
+    }
+
+    .Integrated-publishing-picer li {
+        width: 33.333%;
+        margin-bottom: 80px;
+    }
+
+    .Integrated-publishing-big-img .message-content {
+        width: 200px !important;
+        margin-left: -100px !important;
+    }
+
+    .Integrated-publishing-picer li a:hover .img-message {
+        padding-bottom: 0;
+    }
+
+
+    .Integrated-publishing-picer li:nth-child(2) .message-content {
+        bottom: -63px;
+    }
+
+    .Integrated-publishing-picer li:nth-child(2) .message-content p {
+        font-size: 18px;
+    }
+
+    .Integrated-publishing-picer {
+        margin: 0 -5px;
+        min-height: auto;
+        padding-bottom: 0;
+    }
+
+    .maper {
+        margin-top: 50px!important;
+    }
+
+    .environment .row .col-md-6 {
+        padding: 0 15px;
+    }
+
+    .environment .row {
+        margin: 0 -15px;
+    }
+
+    .ldxx-left,.ldxx-right {
+        width: 100%;
+    }
+
+    .environment .nav-listhj a {
+        padding: 0 10px;
+    }
+
+    .environment .nav-listhj {
+        margin: 0 -10px;
+        margin-bottom: 20px;
+    }
+
+    .index-nav ul li {
+        padding: 0 30.6px;
+    }
+
+    .footer-links .dropdown {
+        margin: 0;
+    }
+
+    .foot-flex-ageeing-pic {
+        float: none;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        margin-bottom: 20px;
+    }
+
+    .foot-flex-ageeing-txt {
+        margin-left: 0;
+        float: none;
+        width: 100%;
+    }
+
+    .Xuandeng-ulr li:first-child:after {
+        right: 12px;
+    }
+
+    .head .header-rt .top-link li:first-child a {
+        margin-left: 0;
+        width: 16px;
+        float: left;
+    }
+
+    .header-lt span a {
+        font-size: 14px;
+    }
+
+    .header-lt span a:nth-child(2):after {
+        content: '';
+        width: 1px;
+        height: 16px;
+        background: #d4a464;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .index-nav ul li a {
+        padding: 15px 2px;
+    }
+
+    .header-lt span em {
+        font-size: 16px;
+        padding: 0 7px;
+    }
+
+    .header-lt span {
+        margin-left: 8px;
+    }
+
+    .head .header-rt .top-link li a .iconfont {
+        font-size: 18px;
+    }
+
+    .index-nav ul li a {
+        font-size: 14px;
+    }
+
+    .top-link .dropdown:after {
+        margin-left: 2px;
+    }
+
+    .head .header-rt .top-link li a {
+        margin-left: 4px;
+        font-size: 14px;
+    }
+
+    .midd-top .input {
+        width: 593px;
+    }
+
+    .sousuo {
+        width: 720px;
+    }
+
+    .four-block li {
+        margin-bottom: 15px;
+        padding: 0 10px!important;
+    }
+
+    .four-block {
+        margin: 0 -10px;
+        margin-top: 60px;
+    }
+
+    .message .message-content {
+        bottom: 27px;
+        width: 124px;
+        margin-left: -62px;
+    }
+
+    .message {
+        margin-top: 65px;
+    }
+
+    .message .photo-list {
+        padding-bottom: 0px;
+    }
+
+    .turn-pic li, .turn-picer li {
+        width: 100%;
+    }
+
+    .data-news {
+        margin-top: 60px;
+    }
+
+    .footer-links {
+        flex-wrap: wrap;
+        justify-content: center!important;
+    }
+
+    .footer-links li a {
+        white-space: nowrap;
+        padding: 0 30px;
+    }
+
+    .footer-links li {
+        margin-bottom: 10px;
+    }
+
+    .gongbao {
+        margin-bottom: 45px;
+    }
+
+    .pagination {
+        margin-top: 30px;
+    }
+
+    .newsbox .hot {
+        padding-bottom: 0;
+    }
+
+    .tadaty-list {
+        padding-bottom: 10px;
+    }
+
+    .Article-fixed {
+        padding-left: 10px;
+    }
+
+    .Article-wz {
+        padding-left: 0;
+    }
+
+    .footer {
+        background-size: cover;
+    }
+
+    .data-news .col-md-6 {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .data-news .row {
+        margin: 0 -15px;
+    }
+
+    .data-news h2 {
+        margin-top: 35px;
+    }
+
+    .new-tu {
+        height: 175px;
+    }
+
+    .four-block-index {
+        margin: 0 -10px;
+        margin-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .four-block-index  li {
+        width: 50%;
+        margin-bottom: 15px;
+        padding: 0 10px;
+    }
+
+    .data-news-index .col-md-6 {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .data-news-index .row {
+        margin: 0 -15px;
+    }
+
+    .data-news-index , .messager {
+        padding: 0;
+    }
+
+    .messager .photo-list li {
+        width: 33.3333%;
+        margin-bottom: 75px;
+    }
+
+    .messager .photo-list {
+        padding-bottom: 0;
+    }
+
+    .xia-la {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .xia-la .xiala-rt {
+        padding-left: 50px;
+    }
+
+    .xia-la .five-people {
+        margin: 0 -6px;
+        margin-bottom: 20px;
+    }
+
+    .xia-la .five-people li p {
+        font-size: 14px;
+    }
+
+    .xia-la .xiala-rt ul li a {
+        padding: 14px 10px;
+    }
+
+    .xia-la:before, .two02:before {
+        left: 22%;
+    }
+
+    .two02:before {
+        left: 73%;
+    }
+
+    .xinxi_solution_main ul li.on {
+        width: 330px;
+    }
+
+    .xinxi_solution_main ul li .right {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        text-align: justify;
+        line-height: 26px;
+    }
+
+    .environment .row .col-md-6 {
+        margin-bottom: 40px;
+    }
+
+    .big-img01 {
+        margin-bottom: 20px;
+    }
+
+    .fiver-list-qh li {
+        width: 33.333%;
+        margin-bottom: 16px;
+    }
+
+    .fiver-list-qh {
+        margin: 0 -10px;
+    }
+
+    .hot-sever li {
+        width: 20%;
+        padding: 0;
+    }
+
+    .re-sliders02 .owl-controls {
+        margin-top: 10px;
+    }
+
+    .two03, .two04 {
+        top: 595px;
+    }
+
+    .two04:before {
+        left: 73%;
+    }
+
+    .brandLink:after {
+        margin-left: 5px;
+    }
+
+    .denglu span {
+        margin-left: 5px;
+    }
+
+    .head .dengl-wm .top-link li a {
+        margin-left: 0px;
+    }
+
+    .denglu img, .denglu {
+        width: 33%;
+    }
+
+    .denglu {
+        margin-right: 3px;
+    }
+
+    .letterbox-qh li .text-box0831 {
+        padding: 21px 0 21px 25px;
+    }
+
+    .xinx a {
+        padding: 12px 10px 12px 10px;
+    }
+
+    .four004 li {
+        padding: 0 10px;
+    }
+
+    .four004 {
+        margin: 0 -10px;
+        margin-bottom: 80px;
+        margin-top: 50px;
+    }
+
+    .consultation .consultation-top {
+        padding: 36px 15px;
+    }
+
+    .interview-man .interview-lt .interview-list {
+        width: 70%;
+        margin-left: 15px;
+    }
+
+    .interview-man .interview-lt .interview-photo {
+        width: 100px;
+        height: 133px;
+    }
+
+    .interview-man .interview-lt {
+        width: 55%;
+        margin-right: 10px;
+    }
+
+    .interview-man .interview-lt .interview-list span {
+        width: 74%;
+    }
+
+    .interview-man .interview-lt .interview-list ul li {
+        margin-bottom: 9px;
+    }
+
+    .interview-man .interview-rt {
+        padding-left: 20px;
+    }
+
+    .four04-tab a {
+        padding: 0 20px!important;
+    }
+
+    .four04-tab {
+        width: 720px;
+    }
+
+    .five005-list li a {
+        padding: 0 7px!important;
+    }
+
+    .five005-list {
+        width: 715px;
+    }
+
+    .work-jg li label {
+        width: 100px;
+    }
+
+    .list-color li {
+        width: 50%;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 5px 14px;
+        height: 76px;
+    }
+
+    .list-color li:nth-child(4) a .iconfont, .list-color li:nth-child(8) a .iconfont {
+        margin-top: 13px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        line-height: 32px;
+    }
+
+    .list-color li:nth-child(4) a .iconfont, .list-color li:nth-child(8) a .iconfont {
+        margin-top: 0;
+    }
+
+    .mess-box .col-sm-3 {
+        width: 39%;
+    }
+
+    .mess-box .col-sm-9 {
+        width: 61%;
+        padding-right: 15px;
+    }
+
+    .five-affairs li {
+        width: 33.333%;
+    }
+
+    .gongkai li {
+        width: 50%;
+        padding: 0 40px;
+    }
+
+    .gongkai {
+        margin: 0 -40px;
+    }
+
+    .make {
+        padding-bottom: 0;
+    }
+
+    .zhixing {
+        left: 34.5%;
+    }
+
+    .guanli:before {
+        left: 68%;
+    }
+
+    .fuwu {
+        right: auto;
+        left: 0;
+        top: 595px;
+    }
+
+    .jieguo {
+        right: auto;
+        left: 5%;
+        top: 595px;
+    }
+
+    .jieguo:before {
+        left: 70%;
+    }
+
+    .xia-wm {
+        left: -44px;
+    }
+
+    .head .header-rt .top-link .dropdown .dropdown-menu li a {
+        padding: 10px 19px;
+    }
+
+    .head .header-rt .top-link .dropdown-menu {
+        min-width: 93px;
+    }
+
+    .video-box-years li .video01 {
+        height: auto;
+    }
+
+    .picNewsList li a .picNewsList-tu {
+        height: 177px;
+    }
+
+    .modern {
+        margin-right: 0px;
+    }
+
+    .two-well {
+        margin-top: 45px;
+    }
+
+    .video-news-list ul li .new-tu {
+        height: 181px;
+    }
+
+    .margin-top14 {
+        margin-top: 14px;
+        margin-bottom: 20px;
+    }
+
+    .col90 {
+        background: url(../images/chevron-down.png) 655px no-repeat;
+    }
+
+    .xiangmu li a {
+        padding: 0 33px!important;
+    }
+
+    .xiangmu {
+        margin: 0 -33px;
+        margin-bottom: 0px;
+        margin-top: 30px;
+    }
+
+    .xiangmu li {
+        margin-bottom: 35px;
+    }
+
+    .letter {
+        margin-top: 10px;
+    }
+
+    .zhengji {
+        background: url(../images/chevron-down.png) 298px no-repeat;
+    }
+
+    .header-lt span label {
+        font-size: 14px;
+    }
+
+    .guzhi .new-tu {
+        height: 181px!important;
+    }
+
+    .dt-bg h1 {
+        padding: 125px 98px 20px 22px;
+    }
+
+    .historical-list-content {
+        width: 72%;
+    }
+
+    .panel15 .owl-item > .item > a > .title > span {
+        width: 75%;
+    }
+
+    .notice .videor {
+        margin-bottom: 10px;
+        margin-top: 0;
+    }
+
+    .four-num-list {
+        padding-bottom: 10px;
+    }
+
+    .guest-rg p {
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+
+    .owl-controls {
+        margin-bottom: 24px;
+    }
+
+    .kuai-qh li a {
+        font-size: 18px;
+    }
+
+    .video-box ul li {
+        height: auto;
+    }
+
+    .dt-bg i {
+        margin-top: 25px;
+    }
+
+    .dt-bg {
+        background-size: 100%;
+        margin-bottom: 24px;
+    }
+
+    .dt-bg h1 {
+        padding: 153px 57px 20px 22px;
+    }
+
+    .notice #videoPlayer .example-video-dimensions {
+        width: 100%;
+        height: 300px;
+    }
+
+    .gk-list .col-20 {
+        width: 20%!important;
+        margin-bottom: 0px!important;
+    }
+
+    .gk-list .hover-show, .btnicon-round .hover-show {
+        position: relative;
+        top: 0;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .list-color li a i {
+        margin: 0 10px;
+    }
+
+    .list-color li {
+        width: 50%!important;
+        float: left!important;
+        margin-left: 0!important;
+    }
+
+    .pic-list-2 .box1>p, .pic-list-2 .box2>a>p {
+        padding-top: 106px;
+    }
+
+    .cy-map {
+        margin-bottom: 24px;
+    }
+
+    .title-photo {
+        padding-left: 30px;
+    }
+
+    .videor video {
+        width: 100%;
+        height: auto;
+    }
+
+    .videor {
+        margin-top: 20px;
+    }
+
+    .guest-list {
+        width: 70%;
+    }
+
+    .plepeo {
+        margin-bottom: 20px;
+    }
+
+    .new-padding {
+        padding-left: 15px!important;
+        margin-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .contnet-tw .hui-k p {
+        white-space: normal;
+    }
+
+    .three03 .col-md-4 {
+        margin-bottom: 20px;
+    }
+/* .padding-bottom62 {
+    padding-bottom: 42px;
+} */
+    .theme label {
+        margin-top: 0;
+    }
+
+    .example-video-dimensions {
+        width: 100%;
+        height: 300px;
+    }
+
+    .tiwen {
+        height: 62px;
+    }
+
+    .jihua-yg {
+        margin-top: 30px;
+    }
+
+    .padding-lt115 {
+        padding-left: 15px!important;
+        margin-top: 30px;
+    }
+
+    .qt {
+        right: 40%;
+    }
+
+    .ldxx-left-ul1 {
+        margin-bottom: 30px;
+    }
+
+    .modal-dialog iframe {
+        width: 100%;
+    }
+
+    .foot1 p a {
+        width: 100%;
+        height: auto;
+        margin-bottom: 0;
+    }
+
+    .foot1 p {
+        overflow: hidden;
+    }
+
+    .big-img01, .big-img01 img {
+        height: auto!important;
+    }
+
+    .fourimg li a {
+        height: 221px!important;
+    }
+
+    .piao {
+        display: none;
+    }
+
+    .hot {
+        margin-left: 4px!important;
+    }
+
+    .four004 li a span {
+        margin-left: 12px;
+        width: 72%;
+    }
+
+    .four004 li a {
+        padding: 7px 10px!important;
+    }
+
+    .four004 li a .iconfont {
+        margin-top: 10px;
+    }
+
+    .four004 li:nth-child(4) a {
+        padding: 1px 10px!important;
+    }
+
+    .list-content iframe {
+        width: 100%!important;
+    }
+
+    .homeSlider-rt {
+        width: 54%;
+    }
+
+    .right-homeSlide .item img {
+        height: 146px;
+    }
+
+    .yearbook {
+        margin-top: -20px!important;
+    }
+
+    .skine .col-sm-6 {
+        padding: 0 10px;
+    }
+
+    .skine {
+        margin: 0 -10px;
+        margin-bottom: 46px;
+    }
+
+    .skonrery a, .skonrery01 a {
+        margin-bottom: 20px;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 138px;
+    }
+
+    .messager .message-content p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 767px) {
+    .Integrated-publishing-big-img li a:hover .img-message {
+        padding-bottom: 0;
+    }
+    .Senior-edition li {
+        margin-right: 20px;
+    }
+    .Senior-edition{
+       white-space: nowrap;
+       display: flex;
+
+    }
+    .Senior-edition li a{
+        font-size: 14px;
+    }
+    .ma-infinitypush-wrapper.ma-infinitypush-active-button.ma-infinitypush-button-right .ma-infinitypush-button{
+        top: 58px;
+    }
+    .top-soccoeer-overflow{
+        overflow-x: auto;
+        padding: 10px 0;
+    }
+    .top-soccoeer{
+        
+        padding:0 15px;
+        border-bottom: 1px solid #eee;
+    }
+    .top-link{
+        display: none;
+    }
+    .Senior-edition li a .iconfont{
+        font-size: 16px;
+        margin-top: -2px;
+    }
+    .Integrated-publishing-big-img li,.Integrated-publishing-picer li {
+        width: 50%;
+        margin-bottom: 80px;
+    }
+     .Senior-edition li:first-child{
+        margin-right: 40px;
+     }
+
+    .foot-flex-ageeing-txt {
+        width: 100%;
+    }
+
+    span#_span_jiucuo {
+        width: 33.33333%;
+    }
+
+    .Integrated-publishing-big-img {
+        height: auto;
+    }
+
+    .foot-flex-ageeing-pic {
+        display: flex;
+        margin-bottom: 0;
+    }
+
+    .head .header-rt .top-link {
+        display: none;
+    }
+
+    .skine .col-sm-6:nth-child(1) {
+        margin-bottom: 20px;
+    }
+
+    .sousuo {
+        width: 617px;
+    }
+
+    .midd-top .input {
+        width: 490px;
+    }
+
+    .Integrated-publishing-picer li a:hover .img-message {
+        padding-bottom: 0px;
+    }
+
+
+    .header-lt span label {
+        font-size: 16px;
+    }
+
+    .ma-infinitypush-wrapper .ma-infinitypush-button {
+        box-shadow: none!important;
+    }
+
+    .ma-infinitypush-wrapper.ma-infinitypush-active-button.ma-infinitypush-button-right .ma-infinitypush-button:before {
+        content: "";
+        position: absolute;
+        left: 6px;
+        top: 6px;
+        font-size: 32px;
+        color: #fff;
+        width: 16px;
+        height: 16px;
+        background: url(../images/dh.png) no-repeat;
+        background-size: 100%;
+    }
+
+    .message .photo-list li {
+        width: 33.333%;
+        margin-bottom: 75px;
+    }
+
+    .message .message-content {
+        bottom: -60px;
+    }
+
+    .footer .footer-info {
+        display: block;
+        overflow: hidden;
+    }
+
+    .footer-info a {
+        float: left;
+        width: 33.333%;
+        margin-bottom: 15px;
+        height: 46px;
+    }
+
+    .foot1 {
+        float: left;
+        width: 33.333%;
+    }
+
+    .footer .footer-links {
+        margin-bottom: 23px;
+    }
+
+    .footer-cont {
+        padding: 30px 0;
+        padding-bottom: 15px;
+    }
+
+    #mobile-navigation {
+        background: #CBB486;
+        display: none;
+    }
+
+    .ma-infinitypush-wrapper .ma-infinitypush>ul>li>a {
+        background: #CBB486;
+    }
+
+    .ma-infinitypush .navbar-nav {
+        border-bottom: none!important;
+    }
+
+    .contnet-detail .col-xs-2 {
+        width: 25%;
+    }
+
+    .contnet-detail .col-xs-10 {
+        width: 75%;
+    }
+
+    .header-lt, .header-rt {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .header-rt {
+        display: none;
+    }
+
+    .ma-infinitypush .navbar-nav>li>a {
+        font-size: 18px;
+        color: #fff;
+        text-align: center;
+        line-height: 35px;
+    }
+
+    .data-news, .four-block-index {
+        margin-top: 30px;
+    }
+
+    .four-block-index {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .four-block li p {
+        font-size: 16px;
+    }
+
+    .xia-la .xiala-rt {
+        padding-left: 15px;
+    }
+
+    .xinxi_solution_main {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .xinxi_solution_main ul li .left {
+        width: 75px;
+    }
+
+    .xinxi_solution_main ul li .left_top {
+        padding: 0 8px;
+    }
+
+    .xinxi_solution_main ul li {
+        width: 75px;
+    }
+
+    .xinxi_solution_main ul li .right {
+        margin-left: 75px;
+        display: block;
+    }
+
+    .xinxi_solution_main ul li .left_top img {
+        width: 65%;
+    }
+
+    .xinxi_solution_main ul li.on,.quarter-span,.Xuandeng-ulr {
+        width: 100%;
+    }
+
+    .xinxi_solution_main ul li {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+        border: 1px solid #DECBA4;
+    }
+
+    .jiaho {
+        margin-top: 3px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        text-align: justify;
+        line-height: 36px;
+    }
+
+    .xinxi_solution_main ul li .left {
+        background: -webkit-linear-gradient(bottom,#B9916A, #EBCE97);
+        background: -o-linear-gradient(bottom,#B9916A, #EBCE97);
+        background: -moz-linear-gradient(bottom,#B9916A, #EBCE97);
+        background: linear-gradient(to top,#B9916A, #EBCE97);
+        filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#B9916A,endColorStr=#EBCE97);
+    }
+
+    .xinxi_solution_main ul li .left_top p {
+        color: #fff;
+    }
+
+    .environment h3 {
+        margin-bottom: 0px;
+        margin-top: 35px;
+    }
+
+    .maper {
+        margin-top: 30px;
+    }
+
+    .environment {
+        margin-bottom: 0;
+    }
+
+    .margin-top20 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .city-postcard {
+        margin-bottom: 30px;
+    }
+
+    .xinxi_solution_main ul li .left_top .color-yellow, .xinxi_solution_main ul li .left_top .color-z, .xinxi_solution_main ul li .left_top .color-reder {
+        width: 60px;
+        height: 60px;
+    }
+
+    .xinxi_solution_main ul li.on .left_top .color-z {
+        background-size: 100%;
+    }
+
+    .xinxi_solution_main ul li .left_top .color-yellow {
+        background: url(../images/nj-click.png) no-repeat;
+        background-size: 100%!important;
+    }
+
+    .xinxi_solution_main ul li .left_top .color-reder {
+        background: url(../images/bk-click.png) no-repeat;
+        background-size: 100%!important;
+    }
+
+    .xinxi_solution_main ul li .left_top  .color-z {
+        background: url(../images/gk-click.png) no-repeat;
+        background-size: 100%;
+    }
+
+    .xia-la {
+        top: 290px;
+    }
+
+    .two03, .two04 {
+        top: 565px;
+    }
+
+    .xia-la .five-people {
+        margin-bottom: 0;
+    }
+
+    .letterbox-qh li .text-box0831>div {
+        margin-left: 15px;
+    }
+
+    .xinx a span {
+        margin-top: 11px;
+    }
+
+    .letterbox-qh li .text-box0831 {
+        padding: 21px 0 21px 10px;
+    }
+
+    .letterbox-qh  .text-box0831>div a:last-child {
+        margin-right: 0;
+    }
+
+    .letterbox {
+        margin-top: 30px;
+    }
+
+    .denglu img, .denglu {
+        width: 100%;
+    }
+
+    .denglu img {
+        width: auto;
+    }
+
+    .letterbox-qh {
+        margin-bottom: 7px;
+    }
+
+    .four004 {
+        margin: 0 -10px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    .four004 li {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .consultation {
+        margin-bottom: 30px;
+    }
+
+    .consult-box {
+        margin-bottom: 10px;
+    }
+
+    .interview-two .col-sm-6 {
+        margin-bottom: 40px;
+    }
+
+    .interview-zx {
+        margin-bottom: 0px;
+        overflow: hidden;
+    }
+
+    .interview-man .interview-lt, .interview-man .interview-rt {
+        width: 100%;
+    }
+
+    .interview-man .interview-lt .interview-photo {
+        width: 150px;
+        height: 200px;
+    }
+
+    .interview-man .interview-lt .interview-list ul li {
+        margin-bottom: 24px;
+    }
+
+    .interview-man .interview-rt {
+        padding-left: 0;
+        border-left: none;
+        margin-top: 20px;
+        height: auto;
+    }
+
+    .interview-zx .interview-man {
+        margin-bottom: 30px;
+    }
+
+    .interview-man .interview-rt p {
+        display: block;
+        -webkit-line-clamp: inherit;
+    }
+
+    .margin-top80 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .four04-tab a {
+        padding: 0 10px!important;
+        font-size: 20px;
+    }
+
+    .four04-tab {
+        width: 480px;
+        margin-bottom: 15px!important;
+    }
+
+    .five005-list {
+        width: 530px;
+    }
+
+    .five05-tab-q {
+        margin-bottom: 30px;
+        margin-top: 0px;
+    }
+
+    .work-jg li label {
+        width: auto;
+    }
+
+    .list-color {
+        margin: 0 -16px;
+        margin-bottom: 15px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 68%;
+    }
+
+    .mess-box .col-sm-9 , .mess-box .col-sm-3 {
+        width: 100%;
+    }
+
+    .mess-box {
+        margin-bottom: 45px;
+    }
+
+    .mess-box .col-sm-3 {
+        margin-top: 35px;
+    }
+
+    .wd-time {
+        width: 40%;
+        background: url(../images/rl.png) 220px no-repeat;
+    }
+
+    .year01 {
+        width: 30%!important;
+    }
+
+    .yaer02 , .year03 {
+        width: 20%!important;
+    }
+
+    .five-affairs {
+        margin-bottom: 20px;
+    }
+
+    .zhixing {
+        width: 365px;
+    }
+
+    .guanli {
+        width: 450px;
+        left: auto;
+        right: 0;
+        padding-bottom: 10px;
+    }
+
+    .fuwu, .jieguo {
+        top: 565px!important;
+    }
+
+    .yaer02 {
+        background: url(../images/chevron-down.png) right no-repeat;
+        background-origin: content-box;
+        padding-right: 9px!important;
+        background-size: 10px!important;
+    }
+
+    .xia-select {
+        background: url(../images/chevron-down.png) right no-repeat;
+        background-origin: content-box;
+        background-size: 10px!important;
+    }
+
+    .header-lt span {
+        width: auto;
+        margin-left: 25px;
+    }
+
+    .header-lt span a {
+        font-size: 16px;
+    }
+
+    .header-lt span em {
+        font-size: 18px;
+        padding: 0 7px;
+    }
+
+    .qieh-news {
+        margin-bottom: 30px;
+    }
+
+    .picNewsList li a .picNewsList-tu {
+        height: 75px;
+    }
+
+    .col90 {
+        background: url(../images/chevron-down.png) right no-repeat;
+        background-origin: content-box;
+    }
+
+    .letter tr td {
+        white-space: normal!important;
+    }
+
+    .share1 {
+        display: none;
+    }
+
+    .pdf-box {
+        margin-bottom: 10px;
+        margin-top: 40px;
+    }
+
+    .right_di a {
+        margin-bottom: 0;
+    }
+
+    .right_di {
+        height: auto;
+        line-height: 36px;
+    }
+
+    .Article-title-zw {
+        text-align: justify;
+    }
+
+    .guest-list {
+        width: 69%;
+    }
+
+    .tiwen {
+        height: 57px;
+        background-size: 100%!important;
+    }
+
+    .historical-list-content {
+        width: 71%;
+    }
+
+    .ldxx-right .header-1 h2:after {
+        display: none;
+    }
+
+    .ldxx-right .header-1 h2:before {
+        z-index: 2;
+    }
+
+    .fourimg li a {
+        height: 192px!important;
+    }
+
+    .hot {
+        margin-left: 0px!important;
+        text-align: center;
+        width: 100%!important;
+    }
+
+    .four004 li a span {
+        line-height: 52px;
+    }
+
+    .four004 li:nth-child(3) a {
+        padding: 13px 10px!important;
+    }
+
+    .four004 li:nth-child(3) a .iconfont {
+        margin-top: 7px!important;
+    }
+
+    .four004 li:nth-child(4) a {
+        padding: 17px 10px!important;
+    }
+
+    .four004 li:nth-child(4) a span {
+        line-height: 23px;
+    }
+
+    .triangleIcon1, .triangleIcon2 {
+        width: 100%;
+    }
+
+    .homeSlider-rt {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .homeSlider-lt {
+        float: none;
+    }
+
+    .spacing-top00 {
+        margin-top: 40px;
+    }
+
+    .left-homeSlide {
+        width: 100%;
+    }
+
+    .right-homeSlide {
+        width: 100%;
+    }
+
+    .right-homeSlide .item img {
+        height: 381px;
+    }
+
+    .four004 li:nth-child(3) a span {
+        line-height: 44px;
+        width: 76%;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 195px;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 210px;
+    }
+}
+
+@media (max-width: 660px) {
+    .midd-top .input {
+        width: 421px;
+    }
+
+    .sousuo {
+        width: 548px;
+    }
+
+    .midd-top .input>input {
+        padding: 0 10px 0 125px;
+    }
+
+    .message .message-content {
+        bottom: -30px;
+    }
+
+    .message .photo-list li {
+        margin-bottom: 50px;
+    }
+
+    .through {
+        margin-right: 5px;
+    }
+
+    .new-tu {
+        height: 151px;
+    }
+
+    .video-news-list ul li .new-tu {
+        height: 157px;
+    }
+
+    .qieh-news .nav-list15 li a {
+        padding: 0 15px;
+    }
+
+    .yearbook dd {
+        width: 33.333%;
+    }
+
+    .share>a {
+        margin: 18px 3px;
+    }
+
+    .fiver-list-qh li {
+        width: 50%;
+        margin-bottom: 16px;
+    }
+
+    .letterbox-qh li .text-box0831 .iconfont, .letterbox-qh .active .text-box0831 .iconfont {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 30px;
+    }
+
+    .letterbox-qh li .text-box0831>div a, .letterbox-qh .active .text-box0831>div a {
+        margin-right: 10px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 71%;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 14px 14px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        line-height: 23px;
+    }
+
+    .list-color li:nth-child(8) a {
+        padding: 10px 14px;
+    }
+
+    .list-color li:nth-child(4) a .iconfont, .list-color li:nth-child(8) a .iconfont {
+        margin-top: 7px;
+    }
+
+    .list-color li span {
+        margin-left: 12px;
+    }
+
+    .list-color li:nth-child(8) a span {
+        width: 68%;
+        line-height: 32px;
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) right no-repeat;
+        background-size: 15px!important;
+    }
+
+    .jieguo:before {
+        left: 53%;
+    }
+
+    .region-list {
+        margin: 0 -10px;
+        margin-bottom: 20px;
+    }
+
+    .guzhi .new-tu {
+        height: 157px!important;
+    }
+
+    .theme h3 {
+        margin-left: 0;
+    }
+
+    .guest-list {
+        width: 65%;
+    }
+
+    .historical-list-content {
+        width: 67%;
+    }
+
+    .PBtime {
+        margin-bottom: 40px!important;
+    }
+
+    .modal-dialog iframe {
+        width: 100%;
+        height: 300px;
+    }
+
+    .fourimg li a {
+        height: 148px!important;
+    }
+
+    .four004 li:nth-child(3) a span {
+        line-height: 25px;
+        width: 70%;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 184px;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 165px;
+    }
+}
+
+@media (max-width: 580px) {
+    .midd-top .input .picker {
+        width: 80px;
+        padding-right: 13px;
+    }
+
+    .midd-top .input>input {
+        padding: 0 10px 0 76px;
+    }
+
+    .midd-top .input .picker select {
+        text-align-last: center;
+    }
+
+    .midd-top .input {
+        width: 352px;
+    }
+
+    .midd-top .search {
+        width: 80px;
+    }
+
+    .video-news-list ul li {
+        padding: 0 9px;
+    }
+
+    .video-box ul {
+        margin: 0 -9px;
+    }
+
+    .sousuo {
+        width: 432px;
+    }
+
+    .midd-top .input .picker-list {
+        width: 80px;
+    }
+
+    .midd-top .input .picker-list li {
+        padding-left: 14px;
+        line-height: 35px;
+    }
+
+    .message .message-content {
+        bottom: 20px;
+    }
+
+    .message .photo-list li {
+        margin-bottom: 5px;
+    }
+
+    .video-news-list ul li .new-tu {
+        height: 165px;
+    }
+
+    .turn {
+        height: 390px!important;
+    }
+
+    .footer .footer-links {
+        display: block;
+        margin: 0 -11px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        height: 175px;
+    }
+
+    .controls a {
+        padding: 4px;
+    }
+
+    .footer-links li a {
+        padding: 0;
+    }
+
+    .footer-links li .dropdown-menu li a {
+        padding: 0 10px;
+    }
+
+    .footer-links li {
+        margin-bottom: 10px;
+        float: left;
+        width: 50%;
+        padding: 5px 11px;
+    }
+
+    .dropup .caret {
+        float: right;
+        margin-top: 7px;
+    }
+
+    .footer .footer-info {
+        display: block;
+        overflow: hidden;
+        clear: both;
+    }
+
+    .wd100 {
+        width: 50%;
+    }
+
+    .foot1 {
+        width: 100%;
+    }
+
+    .foot-flex-ageeing-pic {
+        display: block;
+    }
+
+    .footer-info a:nth-child(5) {
+        width: 100%;
+    }
+
+    .footer-info a:nth-child(4) {
+        width: 22%;
+    }
+
+    .foot1 p {
+        float: left;
+        width: 100%;
+    }
+
+    .footer-info a {
+        text-align: center;
+    }
+
+    .footer-links li .dropdown-menu li {
+        width: 100%;
+    }
+
+    .footer .footer-links .dropdown-menu {
+        min-width: 100%;
+        overflow-y: auto;
+        width: 100%;
+    }
+
+    .upDown {
+        right: 10px;
+    }
+
+    .turn-pic .ImgCrop {
+        height: 390px!important;
+    }
+
+    .four-block li {
+        margin-bottom: 20px;
+        width: 33.333%;
+    }
+
+    .message ul li {
+        width: 50%;
+        margin-bottom: 20px;
+        padding: 0 10px;
+    }
+
+    .failure-five li {
+        width: 50%!important;
+    }
+
+    .message ul , .fourimg {
+        margin: 0 -10px;
+    }
+
+    .video-box li, .fourimg li {
+        padding: 0 10px;
+    }
+
+    .video-box ul {
+        margin: 0 -10px;
+    }
+
+    .carousel-caption {
+        padding: 10px 10px;
+    }
+
+    .new-tu {
+        height: 115px;
+    }
+
+    .nav-line002>li.active>a {
+        padding: 5px 5px!important;
+    }
+
+    .nav-line002 li a {
+        padding: 4px 4px!important;
+    }
+
+    .qieh-news .nav-list15 li a {
+        font-size: 24px;
+    }
+
+    .nav-line002 {
+        top: 2px;
+    }
+
+    .four-block .active>a>div:after {
+        left: 43%;
+    }
+
+    .turn-picer .ImgCrop, .turner {
+        height: 300px;
+    }
+
+    .xia-la .xiala-rt ul li a {
+        font-size: 14px;
+    }
+
+    .life a p {
+        font-size: 14px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        text-align: justify;
+        line-height: 28px;
+    }
+
+    .yearbook dd {
+        width: 50%;
+        padding: 5px 0 5px 10px;
+    }
+
+    .messager .message-content {
+        width: 120px;
+        margin-left: -60px;
+    }
+
+    .xia-la .five-people li img {
+        width: 100%;
+    }
+
+    .xia-la .five-people {
+        margin-bottom: 0;
+    }
+
+    .letterbox-qh li .text-box0831 .iconfont, .letterbox-qh .active .text-box0831 .iconfont {
+        margin: 0 auto;
+        float: none;
+        display: block;
+    }
+
+    .letterbox-qh li .text-box0831>div {
+        margin-left: 0;
+        text-align: center;
+        float: none;
+        margin-top: 10px;
+    }
+
+    .letterbox-qh li .text-box0831 {
+        padding: 10px 0 10px 0px;
+    }
+
+    .letterbox-qh li .text-box0831>div p {
+        text-align: center;
+    }
+
+    .letterbox-qh li .text-box0831>div a, .letterbox-qh .active .text-box0831>div a {
+        float: none;
+    }
+
+    .letterbox-qh .text-box0831>div a:last-child {
+        margin-right: 0;
+    }
+
+    .interview-man .interview-lt .interview-list {
+        width: 63%;
+    }
+
+    .interview-man .interview-lt .interview-list ul li {
+        margin-bottom: 15px;
+    }
+
+    .four04-tab a {
+        font-size: 18px;
+    }
+
+    .four04-tab {
+        width: 440px;
+    }
+
+    .five005-list {
+        width: 455px;
+    }
+
+    .five005-list li a {
+        padding: 0 4px!important;
+    }
+
+    .work-jg li label {
+        width: 155px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 65%;
+    }
+
+    .list-color li:nth-child(4) a .iconfont, .list-color li:nth-child(8) a .iconfont {
+        margin-top: 8px;
+    }
+
+    .list-color li a {
+        padding: 21px 4px;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 14px 4px;
+    }
+
+    .list-color li:nth-child(8) a span {
+        line-height: 23px;
+    }
+
+    .interview-zx h2:before {
+        font-size: 60px;
+        transform: translateX(-188px);
+    }
+
+    .five-affairs li {
+        width: 50%;
+    }
+
+    .juece:before {
+        left: 26%;
+    }
+
+    .zhixing {
+        width: 365px;
+        left: auto;
+        right: 0;
+    }
+
+    .zhixing:before {
+        left: 60%;
+    }
+
+    .fuwu, .guanli {
+        top: 565px!important;
+        left: auto;
+        right: 0;
+    }
+
+    .fuwu:before {
+        left: 67%;
+    }
+
+    .guanli:before {
+        left: 27%;
+    }
+
+    .jieguo {
+        left: 0;
+        top: 850px!important;
+    }
+
+    .jieguo:before {
+        left: 27%;
+    }
+
+    .guanli {
+        width: 450px;
+        left: 0;
+        right: auto;
+        padding-bottom: 10px;
+    }
+
+    .life a {
+        width: 25%;
+    }
+
+    .picNewsList li a .picNewsList-cont {
+        padding: 10px 10px 10px 10px;
+    }
+
+    .region-list li {
+        width: 20%;
+        margin-bottom: 25px;
+    }
+
+    .guizhang li:nth-child(19), .guizhang li:last-child {
+        width: 20%;
+        margin-right: 0px;
+    }
+
+    .guzhi .new-tu {
+        height: auto!important;
+    }
+
+    .pc-slide {
+        width: 100%;
+    }
+
+    .view .swiper-container {
+        width: 100%;
+    }
+
+    .preview .swiper-slide {
+        width: 25%;
+        margin-right: 0;
+        padding: 0 5px;
+    }
+
+    .wxWrap01 li {
+        padding: 0 3px;
+    }
+
+    .wxWrap01 li a {
+        width: 53px;
+    }
+
+    .controls {
+        margin-bottom: 0;
+    }
+
+    .through {
+        background: transparent;
+    }
+
+    .guest-list {
+        width: 57%;
+    }
+
+    .historical-list-content {
+        width: 60%;
+    }
+
+    .foot1 p a {
+        text-align: left;
+    }
+
+    .hot {
+        white-space: normal;
+    }
+
+    .xxsd-wb dd {
+        width: 86%;
+    }
+
+    .list-color li a i {
+        margin: 0 0px;
+    }
+
+    .touzi,.maper {
+        margin: 0 -10px!important;
+        margin-top: 31px!important;
+    }
+
+    .touzi li,.maper a {
+        padding: 0 10px!important;
+    }
+
+    .index-zhengw03 {
+        display: block;
+    }
+
+    .four004 li a span {
+        width: 75%;
+    }
+
+    .Xuandeng-ulr li {
+        width: 33.333%;
+    }
+
+    .Xuandeng-ulr li:nth-child(4) {
+        padding-left: 20px;
+    }
+
+    .foot-skiner {
+        margin-top: 0;
+    }
+
+    .foot-dw-z p:first-child {
+        width: 100%;
+    }
+
+    .foot-flex-ageeing-pic a:nth-child(1) {
+        width: 28%;
+    }
+
+    .foot-flex-ageeing-pic a:nth-child(2) {
+        width: 17%;
+    }
+
+    .footer-info a:nth-child(3) {
+        width: 30%;
+    }
+/* .footer-info a:nth-child(5) {
+    width: 29%;
+} */
+    .Integrated-publishing-big-img .img-message {
+        height: 135px;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 153px;
+    }
+}
+
+@media (max-width: 480px) {
+    .midd-top {
+        margin-top: 30px;
+    }
+
+    .head {
+        padding-bottom: 120px;
+        background: url(../images/iphone.jpg) top center no-repeat;
+        background-size: cover;
+    }
+
+    .midd-top .input .picker {
+        font-size: 16px;
+    }
+
+    .midd-top .input>input {
+        font-size: 16px;
+    }
+
+    .midd-top .input>input {
+        padding: 0 30px 0 70px;
+    }
+
+    .midd-top .input .picker {
+        width: 73px;
+    }
+
+    .midd-top .input {
+        width: 260px;
+    }
+
+    .voice-microphone {
+        right: 8px!important;
+    }
+
+    .midd-top .search {
+        font-size: 16px;
+        padding: 0;
+        width: 90px;
+    }
+
+    .midd-top .input .picker-list {
+        width: 73px;
+        font-size: 16px;
+    }
+
+    .sousuo {
+        width: 350px;
+    }
+
+    .four-block {
+        margin-top: 40px;
+    }
+
+    .four-block li>div {
+        padding-top: 20px;
+        padding-bottom: 12px;
+    }
+
+    .message .photo-list li {
+        width: 50%;
+        margin-bottom: 45px;
+    }
+
+    .message .message-content {
+        bottom: -15px;
+    }
+
+    .message {
+        margin-top: 40px;
+    }
+
+    .message .photo-list {
+        margin-bottom: 0;
+    }
+
+    .data-news h2 {
+        margin-bottom: 10px;
+    }
+
+    .message h2, .data-news-index h2, .messager h2, .environment h2, .city-postcard h2, .interview-zx h2 {
+        margin-bottom: 25px;
+        font-size: 22px;
+    }
+
+    .data-news {
+        margin-top: 30px;
+    }
+
+    .carousel-caption p {
+        font-size: 14px;
+    }
+
+    .today li {
+        padding: 20px 0;
+    }
+
+    .today .time {
+        display: none;
+    }
+
+    .turn-pic .ImgCrop {
+        height: 300px!important;
+    }
+
+    .turn {
+        height: 300px!important;
+    }
+
+    .dots01 .today li a {
+        width: 93%!important;
+    }
+
+    .breadcrumb {
+        padding: 10px 0;
+    }
+
+    .list-content {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+    .tadaty-list li {
+        padding: 7px 0;
+    }
+
+    .tadaty-list .time {
+        top: 10px!important;
+    }
+
+    .newsbox .hot li, .tadaty-list li {
+        padding: 11px 0;
+    }
+
+    .tadaty-list li:nth-child(5), .tadaty-list li:nth-child(10) {
+        padding-bottom: 20px;
+        margin-bottom: 10px;
+    }
+
+    .Article-wz .Article-title {
+        font-size: 26px;
+    }
+
+    .Article-wz .Article-time {
+        font-size: 14px;
+        margin-bottom: 50px;
+    }
+
+    .Article-fixed {
+        display: none;
+    }
+
+    .controls a {
+        padding: 4px;
+    }
+
+    .contnet-detail {
+        margin-top: 30px;
+    }
+
+    .controls {
+        margin-bottom: 10px;
+    }
+
+    .wxWrap01 li a {
+        width: 100%;
+    }
+
+    .midd-top p {
+        letter-spacing: 2px;
+    }
+
+    .tadaty-list .time {
+        display: none;
+    }
+
+    .tadaty-list li a {
+        width: calc(100%-90px)!important;
+        font-size: 14px;
+    }
+
+    .contnet-detail .col-xs-10 {
+        width: 100%;
+    }
+
+    .contnet-detail .col-xs-2 {
+        width: 0;
+    }
+
+    .turn-btn {
+        width: 85px;
+    }
+
+    .four-block li>a>div {
+        padding: 10px 0;
+    }
+
+    .four-block li:last-child {
+        margin-bottom: 10px;
+    }
+
+    .message {
+        margin-bottom: 40px;
+    }
+
+    .qieh-news .nav-list15 li a {
+        font-size: 18px;
+    }
+
+    .nav-line002 {
+        top: -1px;
+    }
+
+    .qieh-news .nav-list15 {
+        margin-bottom: 40px;
+        width: 210px;
+        float: left;
+    }
+
+    .video-box li {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .new-tu {
+        height: 132px;
+    }
+
+    .four-block-index {
+        margin-top: 30px;
+    }
+
+    .four-block-index li .bock01 {
+        padding-top: 20px;
+        padding-bottom: 12px;
+    }
+
+    .four-block li i, .four-block-index li i {
+        width: 50px;
+    }
+
+    .four-block li i img, .four-block-index li i img {
+        width: 100%;
+    }
+
+    .data-news-index {
+        margin-top: 20px;
+    }
+
+    .messager {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .messager .message-content {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        bottom: -42px;
+        width: 90px;
+        margin-left: -45px;
+    }
+
+    .messager .photo-list li {
+        margin-bottom: 55px;
+    }
+
+    .messager .message-content p {
+        font-size: 16px;
+    }
+
+    .four-block-index li h3 {
+        font-size: 16px;
+    }
+
+    .messager .photo-list li:nth-child(5), .messager .photo-list li:nth-child(4) {
+        margin-bottom: 50px;
+    }
+
+    .xia-la .five-people {
+        margin: 0 -13px;
+        margin-bottom: 20px;
+    }
+
+    .yearbook {
+        padding-left: 0;
+        margin-bottom: 0;
+        margin-top: -8px!important;
+    }
+
+    .yearbook dd a {
+        font-size: 14px;
+    }
+
+    .xia-la .five-people li p {
+        font-size: 13px;
+        height: 40px;
+    }
+
+    .xia-la .five-people li {
+        margin-bottom: 0;
+    }
+
+    .xia-la .xiala-lt h4, .xia-la .xiala-rt h4 {
+        margin-bottom: 15px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        text-align: justify;
+        line-height: 25px;
+        font-size: 14px;
+    }
+
+    .margin-top20 {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .fiver-list-qh li a {
+        padding: 7px 9px;
+    }
+
+    .hot-sever li a p {
+        font-size: 14px;
+    }
+
+    .xia-la {
+        top: 245px;
+    }
+
+    .two03, .two04 {
+        top: 450px;
+    }
+
+    .img-lub-bock {
+        width: 315px;
+    }
+
+    .img-lub-bock h4 {
+        font-size: 16px;
+        width: 74%;
+    }
+
+    .xia-la .xiala-lt, .xia-la .xiala-rt {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .xia-la .five-people li img {
+        width: auto;
+    }
+
+    .life a {
+        margin-bottom: 25px;
+    }
+
+    .li116 li a {
+        width: 90%!important;
+    }
+
+    .letterbox-qh li .text-box0831>div a, .letterbox-qh .active .text-box0831>div a {
+        margin-right: 0px;
+    }
+
+    .xinx a span {
+        width: 55%;
+    }
+
+    .xinx a i {
+        margin-top: 13px;
+    }
+
+    .four004 li a {
+        display: block;
+        padding: 15px 5px!important;
+    }
+
+    .fa-man .life a {
+        margin-bottom: 0;
+    }
+
+    .four004 li a span {
+        width: 76%;
+        font-size: 14px;
+        margin-left: 5px;
+    }
+
+    .four004 li a .iconfont {
+        margin-top: 6px!important;
+    }
+
+    .four004 li:nth-child(1) a span {
+        line-height: 40px!important;
+    }
+
+    .public-p li a label {
+        margin-right: 15px;
+    }
+
+    .consultation .consultation-top {
+        padding: 15px 15px;
+    }
+
+    .four004 li:nth-child(3) a span {
+        line-height: 17px;
+    }
+
+    .interview-man .interview-lt .interview-photo {
+        width: 100px;
+        height: 133px;
+    }
+
+    .interview-man .interview-lt .interview-list {
+        width: 67%;
+    }
+
+    .interview-man .interview-lt .interview-list span {
+        width: 69%;
+        font-size: 14px;
+    }
+
+    .four04-tab {
+        width: auto;
+        margin-bottom: 0px!important;
+    }
+
+    .four04-tab li {
+        margin-bottom: 30px;
+    }
+
+    .li17 li:first-child {
+        padding-top: 0;
+    }
+
+    .five005-list li a {
+        padding: 0 8px!important;
+    }
+
+    .four04-tab a {
+        padding: 0 14px!important;
+    }
+
+    .work-jg li label {
+        width: 115px;
+    }
+
+    .five05-tab-q {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    .btnicon-lg li {
+        margin-bottom: 20px;
+    }
+
+    .btnicon-lg li p {
+        font-size: 14px!important;
+    }
+
+    .work-jg li {
+        margin-bottom: 15px;
+    }
+
+    .list-color li {
+        padding: 0 10px;
+        margin-top: 0;
+        height: 60px;
+    }
+
+    .list-color {
+        margin: 0 -10px;
+        margin-bottom: 25px;
+    }
+
+    .list-color li span {
+        width: 56%;
+        font-size: 14px;
+    }
+
+    .list-color li:nth-child(2) a span, .list-color li:nth-child(5) a span, .list-color li:nth-child(6) a span, .list-color li:nth-child(7) a span {
+        line-height: 23px;
+    }
+
+    .list-color li:nth-child(2) a , .list-color li:nth-child(5) a , .list-color li:nth-child(6) a, .list-color li:nth-child(7) a {
+        padding: 5px 12px;
+    }
+
+    .list-color li:nth-child(2) a .iconfont , .list-color li:nth-child(5) a .iconfont, .list-color li:nth-child(6) a .iconfont, .list-color li:nth-child(7) a .iconfont {
+        margin-top: 8px;
+    }
+
+    .list-color li a {
+        padding: 12px 12px;
+        height: 58px;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 5px 12px;
+        height: 58px;
+    }
+
+    .yaer02, .year03 {
+        width: 25%!important;
+    }
+
+    .sousuo-k {
+        margin-top: 20px;
+    }
+
+    .xia-select {
+        margin: 17px 0;
+    }
+
+    .list-color li a i {
+        margin: 0 0px;
+    }
+
+    .years {
+        margin-bottom: 0px;
+        margin-top: 17px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .time-daay {
+        margin-bottom: 17px;
+        overflow: hidden;
+    }
+
+    .yaer02 {
+        margin-top: 0;
+    }
+
+    .margin-top80 h2:before, .environment h2:before, .message h2:before {
+        font-size: 60px;
+        transform: translateX(-158px);
+    }
+
+    .city-postcard h2:before {
+        font-size: 60px;
+        transform: translateX(-75px);
+    }
+
+    .message h2:before, .index-newser h2:before {
+        transform: translateX(-178px);
+        font-size: 60px;
+    }
+
+    .zhuanti-bd h2:before {
+        font-size: 60px;
+        transform: translateX(-138px);
+    }
+
+    .data-news-index h2:before {
+        font-size: 60px;
+        transform: translateX(-96px);
+    }
+
+    .xinx a {
+        padding: 12px 10px 12px 30px;
+    }
+
+    .wd-time {
+        width: 47%;
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) 150px no-repeat;
+        background-size: 17px!important;
+    }
+
+    .year01 {
+        width: 37%!important;
+    }
+
+    .juece:before {
+        left: 20%;
+    }
+
+    .make {
+        width: 100%;
+    }
+
+    .zhixing:before, .guanli:before , .fuwu:before {
+        left: 72%;
+    }
+
+    .gongkai li a {
+        font-size: 14px;
+    }
+
+    .fuwu {
+        top: 475px!important;
+    }
+
+    .jieguo {
+        left: 0;
+        top: 710px!important;
+    }
+
+    .guanli {
+        top: 475px!important;
+    }
+
+    .jieguo:before, .guanli:before {
+        left: 20%;
+    }
+
+    .tadaty-list li:nth-child(15) {
+        padding-bottom: 20px;
+    }
+
+    .mess-box .interview-jh {
+        margin-bottom: 20px;
+    }
+
+    .well0830 {
+        padding-top: 17px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .five-affairs {
+        margin-bottom: 30px;
+    }
+
+    .btnicon-lg {
+        margin-bottom: 15px;
+    }
+
+    .yishenq {
+        margin-bottom: 40px;
+    }
+
+    .margin-top80 {
+        margin-bottom: 30px;
+    }
+
+    .interview-two {
+        margin-bottom: 10px;
+    }
+
+    .hot-sever li a .iconfont , .life a .iconfont {
+        font-size: 24px;
+    }
+
+    .hot-sever li {
+        width: 25%;
+        padding: 0;
+    }
+
+    .year-inscription li .year-img-lt {
+        width: 110px;
+        height: 90px;
+    }
+
+    .year-inscription li .year-content {
+        margin-left: 131px;
+    }
+
+    .year-inscription li .year-content h5 {
+        padding-top: 6px;
+    }
+
+    .year-inscription li {
+        padding: 20px 0;
+    }
+
+    .year-inscription {
+        margin-bottom: 35px;
+    }
+
+    .video-box-years li .video01 {
+        height: auto;
+    }
+
+    .picNewsList li {
+        padding: 0 9px;
+        margin-bottom: 20px;
+    }
+
+    .picNewsList {
+        margin: 0 -9px;
+    }
+
+    .picNewsList li p {
+        font-size: 14px;
+    }
+
+    .xiandai {
+        margin-bottom: 20px;
+    }
+
+    .modern {
+        margin-bottom: 35px;
+    }
+
+    .modern li {
+        width: 33.3333%;
+        margin-bottom: 10px;
+    }
+
+    .situation {
+        margin-top: 25px;
+        margin-bottom: 45px;
+    }
+
+    .region-list li a {
+        font-size: 17px;
+    }
+
+    .region-list {
+        margin: 0 0px;
+        margin-bottom: 10px;
+    }
+
+    .wd99, .guizhang {
+        margin-top: 25px;
+    }
+
+    .margin-botm15 .region-type {
+        margin-bottom: 0;
+    }
+
+    .region-type {
+        margin-bottom: 25px;
+    }
+
+    .margin-botm0 {
+        margin-bottom: 30px;
+    }
+
+    .pageList-gb li {
+        padding: 20px 0;
+        padding-bottom: 0;
+    }
+
+    .color-title {
+        padding-bottom: 20px!important;
+    }
+
+    .new-gb {
+        margin-bottom: 10px;
+    }
+
+    .xiangmu li a {
+        font-size: 17px;
+        padding: 0!important;
+    }
+
+    .xiangmu li {
+        width: 33.333%;
+    }
+
+    .xiangmu {
+        margin: 0;
+        margin-bottom: 0px;
+        margin-top: 30px;
+    }
+
+    .margin-tom50 {
+        margin-bottom: 50px;
+    }
+
+    .content-c .Article-title {
+        font-size: 20px;
+        margin-top: 0;
+        padding-bottom: 20px;
+    }
+
+    .Article_content p {
+        font-size: 16px;
+    }
+
+    .nianfen {
+        margin-bottom: 30px;
+    }
+
+    .wang-zj {
+        margin-top: 15px;
+    }
+
+    .margin-top-60 {
+        margin-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .zhengj {
+        margin-bottom: 5px;
+    }
+
+    .preview .swiper-slide {
+        width: 33.333%;
+    }
+
+    .view .swiper-container {
+        height: 285px;
+    }
+
+    .pc-slide {
+        margin: 40px auto;
+        margin-bottom: 50px!important;
+    }
+
+    .padding-top33 {
+        padding-top: 17px!important;
+    }
+
+    .through {
+        margin-top: -2px;
+        line-height: 42px;
+        margin-right: 10px;
+    }
+
+    .guest-man {
+        float: none;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .guest-list {
+        width: 100%;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .theme h3 {
+        font-size: 18px;
+    }
+
+    .theme span {
+        font-size: 20px;
+    }
+
+    .theme-content {
+        margin-top: 12px;
+    }
+
+    .header-3 {
+        padding: 24px 21px;
+    }
+
+    .new-padding {
+        margin-top: 0px;
+    }
+
+    .tiwen {
+        height: 35px;
+        background-size: 100%!important;
+    }
+
+    .guest-man01 {
+        margin: 0  auto;
+        float: none;
+    }
+
+    .historical, .jihua-yg .moren {
+        position: static!important;
+        float: right;
+        margin-top: -32px;
+        margin-bottom: 0;
+    }
+
+    .font20 {
+        margin-bottom: 40px;
+    }
+
+    .reviewr li h5 label {
+        width: 81%;
+    }
+
+    .plan-yg {
+        margin-bottom: 30px;
+    }
+
+    .historical-list-content {
+        width: 100%;
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+    .padding-bottom31 {
+        margin-top: 10px;
+    }
+
+    .huig-select .font20 {
+        margin-bottom: 20px;
+    }
+
+    .historical-list li {
+        margin-bottom: 20px;
+    }
+
+    .tiwen-tel {
+        margin-bottom: 30px;
+    }
+
+    .qt {
+        right: 32%;
+    }
+
+    .ldxx-right .col-xs-3 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 15px;
+        padding: 0;
+    }
+
+    .yingyong img {
+        width: 35%;
+    }
+
+    .ldxx-right .col-xs-9 {
+        width: 100%;
+        padding: 0;
+    }
+
+    .ldxx-right-right h3, .welcom {
+        text-align: center;
+    }
+
+    .btn-red {
+        width: 100%;
+        padding: 11px 0px;
+        text-align: center;
+    }
+
+    .wd100 p:nth-child(2) {
+        width: 100%;
+    }
+
+    .fourimg li a {
+        height: 134px!important;
+    }
+
+    .xxsd-wb dd {
+        width: 82%;
+    }
+
+    .margin-botr0 {
+        margin-bottom: 30px;
+    }
+
+    .spacing-top00, .triangleIcon2 {
+        margin-top: 40px;
+    }
+
+    .two-triangleIcon {
+        margin-bottom: 80px;
+    }
+
+    .homeSlider .item img {
+        height: 211px;
+    }
+
+    .four-block-index li:nth-child(3) .bock01 p a {
+        font-size: 13px;
+    }
+
+    .four-block-index li:nth-child(3) .bock01 p {
+        padding-bottom: 10px;
+    }
+
+    .four-block-index li:nth-child(1) .bock01 p, .four-block-index li:nth-child(2) .bock01 p {
+        padding: 0 8px;
+    }
+
+    .menu-zw li:nth-child(2) .bock01 p, .menu-zw li:nth-child(3) .bock01 p, .menu-zw li:nth-child(4) .bock01 p, .menu-zw li:nth-child(5) .bock01 p {
+        padding: 0 11px;
+    }
+
+    .pagination, .whj_hover {
+        margin-bottom: 0;
+    }
+
+    .interview {
+        margin: 19px 15px!important;
+    }
+
+    .four004 li:nth-child(2) a {
+        padding: 6px 10px!important;
+    }
+
+    .four004 li:nth-child(2) a .iconfont,.four004 li:nth-child(3) a .iconfont {
+        margin-top: 0!important;
+    }
+
+    .four004 li:nth-child(2) a,.four004 li:nth-child(3) a {
+        display: flex;
+        align-items: center;
+    }
+
+    .xd-table tr td {
+        padding: 10px 0px!important;
+        padding-left: 22px!important;
+    }
+
+    .Xuandeng-ulr li {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .Xuandeng-ulr li:first-child,.Xuandeng-ulr li:nth-child(4) {
+        padding-left: 0;
+    }
+
+    .Xuandeng-ulr li:nth-child(4),.Xuandeng-ulr li:nth-child(5) {
+        margin-bottom: 0;
+    }
+
+    .Xuandeng-ulr li:first-child:after {
+        right: 0;
+    }
+
+    span#_span_jiucuo {
+        width: 50%;
+        float: left;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .foot-flex-ageeing-pic a:nth-child(1) {
+        width: 50%;
+    }
+
+    .footer-info a:nth-child(3) {
+        width: 50%;
+    }
+
+    .footer-info a:nth-child(4) {
+        width: 50%;
+    }
+
+    .footer-info a:nth-child(2) {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .list-jr .today li:before {
+        width: 25px;
+        height: 25px;
+        background-size: 100%;
+    }
+
+    .Integrated-publishing-big-img .message-content {
+        width: 160px !important;
+        margin-left: -80px !important;
+    }
+
+    .Integrated-publishing-big-img li,.Integrated-publishing-picer li {
+        margin-bottom: 60px;
+    }
+
+    ul.Integrated-publishing-nav li {
+        padding: 0 15px;
+    }
+
+    .Integrated-publishing-picer .message-content {
+        width: 120px !important;
+        margin-left: -60px !important;
+    }
+
+    .Integrated-publishing-picer li:nth-child(2) .message-content p {
+        font-size: 14px;
+    }
+
+    .Integrated-publishing-picer li:nth-child(2) .message-content {
+        bottom: -41px;
+    }
+
+    .messager .message-content p {
+        margin-top: 0;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 110px;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 123px;
+    }
+    .Integrated-publishing-big-img li:nth-child(3) .message-content {
+        bottom: -86px;
+    }
+    .list-jr .today li a {
+        text-overflow: inherit;
+        white-space: inherit;
+        overflow: inherit;
+        vertical-align: top;
+    }
+}
+
+
+@media (max-width: 403px) {
+    .footer-links li {
+        padding: 5px 5px;
+        width: 50%;
+    }
+
+    .well0830 li {
+        margin-bottom: 15px;
+    }
+
+    .wd100 {
+        width: 100%;
+    }
+
+    .footer .footer-links {
+        margin: 0 -7px;
+        margin-bottom: 20px;
+    }
+
+    .wd100 p {
+        width: 100%;
+    }
+
+    .hot-sever li a p {
+        height: 42px;
+    }
+
+    .four004 li a span {
+        width: 70%;
+    }
+
+    .four004 li:nth-child(1) a span, .four004 li:nth-child(2) a span {
+        line-height: 22px!important;
+    }
+
+    .four004 li:nth-child(3) a {
+        line-height: 15px;
+    }
+
+    .five005-list li a {
+        padding: 0 5px!important;
+    }
+
+    .four04-tab a {
+        padding: 0 10px!important;
+    }
+
+    .work-jg li label {
+        width: 105px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 66%;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 5px 7px;
+    }
+
+    .list-color li a {
+        padding: 12px 7px;
+    }
+
+    .list-color li:nth-child(2) a, .list-color li:nth-child(5) a, .list-color li:nth-child(6) a, .list-color li:nth-child(7) a {
+        padding: 5px 7px;
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) 137px no-repeat;
+        background-size: 10px;
+    }
+
+    .time-daay {
+        display: flex;
+        align-content: space-between;
+    }
+
+    .four004 li:nth-child(1) a span {
+        line-height: 40px!important;
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 380px) {
+    .Integrated-publishing-big-img .message-content {
+        width: 140px !important;
+        margin-left: -70px !important;
+    }
+
+    ul.Integrated-publishing-nav li {
+        padding: 0 6px;
+    }
+
+    .four004 li:nth-child(1) a span {
+        line-height: 24px!important;
+        white-space: normal;
+    }
+
+    .midd-top .input {
+        width: 222px;
+    }
+
+    .midd-top .search {
+        width: 96px;
+        padding: 0;
+        font-size: 15px;
+    }
+
+    .sousuo {
+        width: 318px;
+    }
+
+    .message .message-content {
+        bottom: 5px;
+    }
+
+    .message .photo-list li {
+        margin-bottom: 20px;
+    }
+
+    .turn {
+        height: 250px!important;
+    }
+
+    .turn-pic .ImgCrop {
+        height: 250px!important;
+    }
+
+    .img-lub h4 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .footer-info a {
+        text-align: center;
+    }
+
+    .turn-btn .lb {
+        left: 7px;
+    }
+
+    .turn-btn .rb {
+        right: 6px;
+    }
+
+    .turn-btn {
+        bottom: 15px;
+        right: 10px;
+        width: 75px;
+    }
+
+    .midd-top p {
+        letter-spacing: 0px;
+    }
+
+    .footer-links li a label {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        width: 87%;
+    }
+
+    .footer .footer-links {
+        height: 195px;
+    }
+
+    .turn-picer .ImgCrop, .turner {
+        height: 250px;
+    }
+
+    .new-tu {
+        height: 115px;
+    }
+/* .qieh-news{
+    margin-bottom: 0;
+} */
+    .nav-line002 {
+        top: 35px;
+    }
+
+    .new-botomer {
+        margin-top: 25px;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .four-block-index li p a {
+        font-size: 14px;
+    }
+
+    .messager .photo-list li {
+        padding: 0 3px;
+    }
+
+    .xia-la .five-people li {
+        width: 20%;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .yearbook dd a {
+        font-size: 14px;
+    }
+
+    .yearbook {
+        margin-top: -2px!important;
+    }
+
+    .two03, .two04 {
+        top: 437px;
+    }
+
+    .img-lub-bock {
+        width: 260px;
+    }
+
+    .messager .message-content {
+        width: 90px;
+        margin-left: -45px;
+    }
+
+    .messager .message-content p {
+        font-size: 14px;
+    }
+
+    .xia-la .five-people li img {
+        width: 100%;
+    }
+
+    .interview-man .interview-lt .interview-list label {
+        width: 40px;
+    }
+
+    .interview-man .interview-lt .interview-list {
+        width: 60%;
+    }
+
+    .interview-man .interview-lt .interview-list span {
+        width: 66%;
+        font-size: 14px;
+    }
+
+    .interview-man .interview-lt .interview-list ul li {
+        margin-bottom: 5px;
+    }
+
+    .four04-tab a {
+        padding: 0 18px!important;
+    }
+
+    .work-jg li label {
+        width: 75%;
+    }
+
+    .list-color li {
+        padding: 0 5px;
+        height: 58px;
+    }
+
+    .list-color {
+        margin: 0 -5px;
+        margin-bottom: 25px;
+    }
+
+    .list-color li:nth-child(4) a span, .list-color li:nth-child(8) a span {
+        width: 70%;
+        margin-left: 5px;
+        font-size: 13px;
+    }
+
+    .list-color li span {
+        margin-left: 5px;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a {
+        padding: 0px 3px;
+        padding-left: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .list-color li:nth-child(2) a, .list-color li:nth-child(5) a, .list-color li:nth-child(6) a, .list-color li:nth-child(7) a {
+        padding: 0px 3px;
+        padding-left: 10px;
+    }
+
+    .list-color li a {
+        padding: 7px 3px;
+        padding-left: 10px;
+        display: flex;
+        align-items: center;
+    }
+
+    .margin-top80 h2:before, .environment h2:before, .message h2:before {
+        font-size: 50px;
+        transform: translateX(-133px);
+    }
+
+    .city-postcard h2:before {
+        font-size: 50px;
+        transform: translateX(-62px);
+    }
+
+    .message h2:before {
+        transform: translateX(-149px);
+    }
+
+    .zhuanti-bd h2:before {
+        font-size: 50px;
+        transform: translateX(-117px);
+    }
+
+    .interview-zx h2:before {
+        font-size: 50px;
+        transform: translateX(-160px);
+    }
+
+    .data-news-index h2:before {
+        font-size: 50px;
+        transform: translateX(-83px);
+    }
+
+    .index-newser h2:before {
+        font-size: 50px;
+        transform: translateX(-149px);
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) 127px no-repeat;
+    }
+
+    .gongkai {
+        margin: 0 -10px;
+    }
+
+    .gongkai li {
+        padding: 0 10px;
+    }
+
+    .fuwu {
+        top: 475px!important;
+    }
+
+    .jieguo {
+        left: 0;
+        top: 710px!important;
+    }
+
+    .four004 li a {
+        padding-left: 8px;
+    }
+
+    .header-lt span {
+        margin-left: 14px;
+    }
+
+    .picNewsList li {
+        width: 50%;
+    }
+
+    .region-list li {
+        width: 25%;
+        margin-bottom: 25px;
+    }
+
+    .guizhang li:nth-child(19), .guizhang li:last-child {
+        width: 25%;
+        margin-right: 0px;
+    }
+
+    .margin-top60 {
+        margin-bottom: 10px;
+    }
+
+    .preview .swiper-slide {
+        height: 80px;
+    }
+
+    .view .swiper-container {
+        height: 265px;
+    }
+
+    .img-lub-bock h4 {
+        width: 68%;
+    }
+
+    .picNewsList li a .picNewsList-tu {
+        height: 100px;
+    }
+
+    .xxsd-wb dd {
+        width: 80%;
+    }
+
+    .right-homeSlide .item img {
+        height: 283px;
+    }
+
+    .four-block-index li:nth-child(3) .bock01 p {
+        padding-bottom: 4px;
+    }
+
+    .menu-zw li:nth-child(2) .bock01 p, .menu-zw li:nth-child(3) .bock01 p, .menu-zw li:nth-child(4) .bock01 p, .menu-zw li:nth-child(5) .bock01 p {
+        padding: 0 5px;
+    }
+
+    .work-jg li {
+        width: 100%;
+    }
+
+    .four-block-index li:nth-child(1) .bock01 p, .four-block-index li:nth-child(2) .bock01 p {
+        padding: 0 6px;
+    }
+
+    .tiwen {
+        height: 27px;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        -webkit-line-clamp: 7;
+    }
+
+    .quarter-span {
+        font-size: 16px;
+    }
+
+    .quarter-span strong,.skonrery01 a h5 {
+        font-size: 18px;
+    }
+
+    .skonrery01 a,.skonrery a {
+        padding-top: 25px;
+        height: 140px;
+    }
+
+    .Integrated-publishing-big-img .img-message {
+        height: 90px;
+    }
+
+    .Integrated-publishing-picer .img-message {
+        height: 101px;
+    }
+    .header-lt span a {
+        padding: 0 8px;
+    }
+    .header-lt {
+        margin-left: 10px;
+    }
+    .top-soccoeer{
+        padding: 0 10px;
+    }
+}
+
+@media (max-width: 365px) {
+    .four-block-index li:nth-child(3) .bock01 p a {
+        font-size: 12px;
+        white-space: nowrap;
+    }
+
+    .four-block-index li:nth-child(3) .bock01 p {
+        padding-bottom: 6px;
+    }
+}
+
+@media (max-width: 360px) {
+    .yearbook dd {
+        background: none;
+        padding: 5px 0 5px 0px;
+    }
+
+    .xia-la .five-people li p {
+        height: 60px;
+    }
+
+    .four004 li a span {
+        width: 69%;
+    }
+
+    .four004 li:nth-child(4) a {
+        line-height: 15px;
+    }
+
+    .consultation .consultation-top h4 {
+        font-size: 18px;
+        margin-top: 3px;
+    }
+
+    .consultation .consultation-top {
+        padding: 15px 10px;
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) 121px no-repeat;
+    }
+
+    .header-lt span label , .header-lt span a {
+        font-size: 14px;
+    }
+
+    .zhengji {
+        width: 290px;
+    }
+
+    .fourimg li a {
+        height: 90px!important;
+    }
+
+    .video-news-list ul li .new-tu {
+        height: 120px;
+    }
+
+    .menu-zw li:nth-child(1) .bock01 p {
+        padding: 0 1px;
+    }
+
+    .menu-zw li:nth-child(2) .bock01 p, .menu-zw li:nth-child(3) .bock01 p, .menu-zw li:nth-child(4) .bock01 p, .menu-zw li:nth-child(5) .bock01 p {
+        padding: 0 1px;
+    }
+
+    .sousuo {
+        width: 286px;
+    }
+
+    .midd-top .input {
+        width: 190px;
+    }
+}
+
+@media (max-width: 340px) {
+    .message .message-content {
+        bottom: 22px;
+    }
+
+    .message .photo-list li {
+        margin-bottom: 1px;
+    }
+
+    .yearbook dd a {
+        font-size: 13px;
+    }
+
+    .wd100 {
+        margin-top: 0px;
+    }
+
+    .footer-links li a label {
+        width: 86%;
+    }
+
+    .xinxi_solution_main ul li .right p {
+        line-height: 17px;
+    }
+
+    .messager .message-content {
+        width: 80px;
+        margin-left: -40px;
+    }
+
+    .messager .message-content p {
+        font-size: 13px;
+    }
+
+    .work-jg li:first-child label {
+        width: 215px;
+    }
+
+    .interview-zx h2:before {
+        font-size: 46px;
+        transform: translateX(-147px);
+    }
+
+    .five-affairs li {
+        width: 100%;
+        position: relative;
+    }
+
+    .wd-time {
+        background: url(../images/rl.png) 110px no-repeat;
+    }
+
+    .four004 li a {
+        padding-left: 5px;
+    }
+
+    .denglu img {
+        width: 40%;
+    }
+
+    .gongkai li {
+        width: 50%;
+    }
+
+    .juece:before, .zhixing:before, .guanli:before, .fuwu:before , .jieguo:before {
+        left: 45%;
+    }
+
+    .fuwu {
+        top: 225px!important;
+    }
+
+    .five-affairs {
+        overflow: visible;
+        min-height: 1070px;
+    }
+
+    .five-affairs li:last-child {
+        margin-bottom: 30px
+    }
+
+    .jieguo {
+        left: 0;
+        top: 250px!important;
+    }
+
+    .guanli {
+        top: 225px!important;
+    }
+
+    .list-color li:nth-child(4) a, .list-color li:nth-child(8) a, .list-color li:nth-child(2) a, .list-color li:nth-child(5) a, .list-color li:nth-child(6) a, .list-color li:nth-child(7) a, .list-color li a {
+        padding-left: 5px;
+        height: 58px;
+    }
+
+    .ma-infinitypush-wrapper.ma-infinitypush-active-button.ma-infinitypush-button-right .ma-infinitypush-button {
+        margin: 0 22px 0 0;
+        left: -38px;
+    }
+
+    .header-lt span {
+        margin-left: 8px;
+    }
+
+    .white320 {
+        white-space: nowrap;
+    }
+
+    .preview .swiper-slide {
+        width: 50%;
+        height: 110px;
+    }
+
+    .example-video-dimensions {
+        width: 100%;
+        height: 260px;
+    }
+
+    #subqus_iframe {
+        margin-top: 0!important;
+    }
+
+    .reviewr li h5 label {
+        width: 80%;
+    }
+
+    .notice #videoPlayer .example-video-dimensions {
+        width: 100%;
+        height: 260px;
+    }
+
+    .qt {
+        right: 27%;
+    }
+
+    .four004 li a span {
+        width: 64%;
+    }
+
+    .four004 li:nth-child(3) a {
+        padding: 4px 10px!important;
+    }
+
+    .four004 li:nth-child(4) a {
+        padding: 11px 10px!important;
+    }
+
+    .four-block-index li:nth-child(1) .bock01 p, .four-block-index li:nth-child(2) .bock01 p {
+        padding: 0 7px;
+    }
+}
